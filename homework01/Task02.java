@@ -13,7 +13,7 @@ public class Task02 {
         }
         if (flag == true)
         System.out.print(number + " ");
-        else flag = true;
+        else flag = true;                 // почему?
         }
     } 
 }
